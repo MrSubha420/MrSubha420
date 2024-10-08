@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey i'm experienced **Full Stack Developer** with a strong background in **JavaScript, Typescript, MongoDB, Express.js, React.js, Next.js and Node.js**. I'm passion for building scalable and efficient web applications, and is committed to staying up-to-date with the latest trends and technologies in the industry.I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Full Stack Web Development** , **IoT**, **Data Science**, **Machine Learning**, **Quantum Technology**, and **App Development**. I enjoy conducting research to turn innovative ideas into practical solutions. Exploring new places and cultures fuels my creativity, while cricket inspires my teamwork and problem-solving skills. At home, my family and pets bring me joy and help me relax. I'm eager to bring my skills and passion to new challenges and opportunities.
 
 <p align="center"> 
  <!--<img src="https://komarev.com/ghpvc/?username=MrSubha420&label=Profile%20views&color=0e75b6&style=flat" alt="MrSubha420" /> -->
