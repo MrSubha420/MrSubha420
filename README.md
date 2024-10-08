@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Subhadip+Manna+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
 
-## About Me
+## 👨‍💻 About Me
 
 Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Full Stack Web Development** , **IoT**, **Data Science**, **Machine Learning**, **Quantum Technology**, and **App Development**. I enjoy conducting research to turn innovative ideas into practical solutions. Exploring new places and cultures fuels my creativity, while cricket inspires my teamwork and problem-solving skills. At home, my family and pets bring me joy and help me relax. I'm eager to bring my skills and passion to new challenges and opportunities.
 
@@ -40,7 +40,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 - 💬 Ask me about **Full Stack Web Development** **IoT** **DataScience** **Native App Devlopment** **Data Strueture** |
 - 📫 How to reach me **codewithsubha2.0@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<b>🤝 Connect with Me</b>
 <p align="left">
   <a href="#" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
@@ -53,7 +53,8 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 <a href="https://kaggle.com/https://www.kaggle.com/subhadip420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## 🛠️ Languages and Tools
 
 - Core Programming
 
@@ -119,9 +120,11 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<b>📊GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSubha420&show_icons=true&locale=en&layout=compact" alt="mrsubha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&show_icons=true&locale=en" alt="mrsubha" /></p>
+
 
 <h4 align="center">
 
