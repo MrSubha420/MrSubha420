@@ -53,7 +53,8 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 <a href="https://kaggle.com/https://www.kaggle.com/subhadip420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420" height="30" width="40" /></a>
 </p>
 
-##🛠️ Languages and Tools
+
+## 🛠️ Languages and Tools
 
 - Core Programming
 
