@@ -14,6 +14,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 </p>
 
 <div align="center">
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
@@ -22,6 +23,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 </div>
 
 <div align="center">
+ <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
@@ -42,12 +44,13 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 <p align="left">
   <a href="#" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
-    <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrSubha420" height="30" width="40" /></a>
     <a href="https://codepen.io/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://twitter.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codesandbox.com/MrSubha420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://fb.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://instagram.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrSubha420" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/subhadip-manna-34108b332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadip-manna-34108b332" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/subhadip420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
