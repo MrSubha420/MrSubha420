@@ -40,7 +40,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 - 💬 Ask me about **Full Stack Web Development** **IoT** **DataScience** **Native App Devlopment** **Data Strueture** |
 - 📫 How to reach me **codewithsubha2.0@gmail.com**
 
-##🤝 Connect with Me
+<b>🤝 Connect with Me</b>
 <p align="left">
   <a href="#" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
