@@ -120,11 +120,11 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##📊GitHub Stats
+📊GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSubha420&show_icons=true&locale=en&layout=compact" alt="mrsubha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&show_icons=true&locale=en" alt="mrsubha" /></p>
----
+
 
 <h4 align="center">
 
