@@ -55,7 +55,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,java" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,css,anguler" />
   </a>
 </p>
 
