@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/Screenshot%20from%202024-04-18%2022-35-21.png" alt="codewithashim" />
+<img align="center" src="https://github.com/MrSubha420/MrSubha420/blob/main/img/Screenshot%20from%202024-04-18%2022-35-21.png" alt="MrSubha420" />
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%3C%2F%3E" alt="Typing SVG" /></a>
@@ -9,8 +9,8 @@
 Hey i'm experienced **Full Stack Developer** with a strong background in **JavaScript, Typescript, MongoDB, Express.js, React.js, Next.js and Node.js**. I'm passion for building scalable and efficient web applications, and is committed to staying up-to-date with the latest trends and technologies in the industry.I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 <p align="center"> 
- <!--<img src="https://komarev.com/ghpvc/?username=codewithashim&label=Profile%20views&color=0e75b6&style=flat" alt="codewithashim" /> -->
-<img alt="Profile followers" src="https://img.shields.io/github/followers/codewithashim"> 
+ <!--<img src="https://komarev.com/ghpvc/?username=MrSubha420&label=Profile%20views&color=0e75b6&style=flat" alt="MrSubha420" /> -->
+<img alt="Profile followers" src="https://img.shields.io/github/followers/MrSubha420"> 
 </p>
 
 <div align="center">
@@ -33,20 +33,20 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 ## 📫 Reach me out
 
 - 🌱 I’m currently learning **Nust.js**
-- 👨‍💻 All of my projects are available at [https://github.com/codewithashim](https://github.com/codewithashim)
+- 👨‍💻 All of my projects are available at [https://github.com/MrSubha420](https://github.com/MrSubha420)
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me **codewithashim@gmail.com**
+- 📫 How to reach me **MrSubha420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/codewithashim" target="blank"><img align="center" src="./WEBP/hr.webp" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/codewithashim" target="blank"><img align="center" src="./WEBP/cf.webp" alt="codewithashim" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithashim" height="30" width="40" /></a>
-    <a href="https://codepen.io/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://twitter.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/codewithashim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://fb.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithashim" height="30" width="40" /></a>
-  <a href="https://instagram.com/codewithashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithashim" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrSubha420" height="30" width="40" /></a>
+    <a href="https://codepen.io/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://twitter.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/MrSubha420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://fb.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://instagram.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrSubha420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -123,7 +123,7 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> Codewithashim            @@
+@@    \|=====|/           </> MrSubha420            @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
