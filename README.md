@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/MrSubha420/MrSubha420/blob/main/img/Screenshot%20from%202024-04-18%2022-35-21.png" alt="MrSubha420" />
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%3C%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Subhadip+Manna+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
 
 ## About Me
