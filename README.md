@@ -35,13 +35,13 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 - 🌱 I’m currently learning **Nust.js**
 - 👨‍💻 All of my projects are available at [https://github.com/MrSubha420](https://github.com/MrSubha420)
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me **MrSubha420@gmail.com**
+- 📫 How to reach me **codewithsubha2.0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrSubha420" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrSubha420" height="30" width="40" /></a>
     <a href="https://codepen.io/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://twitter.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codesandbox.com/MrSubha420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="MrSubha420" height="30" width="40" /></a>
@@ -123,7 +123,7 @@ Hey i'm experienced **Full Stack Developer** with a strong background in **JavaS
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> MrSubha420            @@
+@@    \|=====|/           </> MrSubha420               @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
