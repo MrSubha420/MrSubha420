@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,56 +17,23 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to v3, compatible with Node.js 20
+        uses: actions/checkout@v2
 
-      - name: Generate snake.svg
+      - name: Generate snake.svg with vibrant colors
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
+          palette: "#FF5733,#C70039,#900C3F,#581845,#FFC300"
 
-      - name: Modify SVG for slower animation speed and add labels
-        run: |
-          # Adjust animation speed
-          sed -i 's/dur="2s"/dur="4s"/g' dist/snake.svg
-          
-          # Add month and day labels
-          awk '/<\/svg>/{
-            print "<!-- Months -->"
-            print "<text x=\"10\" y=\"20\" fill=\"white\" font-size=\"12\">January</text>"
-            print "<text x=\"60\" y=\"20\" fill=\"white\" font-size=\"12\">February</text>"
-            print "<text x=\"110\" y=\"20\" fill=\"white\" font-size=\"12\">March</text>"
-            print "<text x=\"160\" y=\"20\" fill=\"white\" font-size=\"12\">April</text>"
-            print "<text x=\"210\" y=\"20\" fill=\"white\" font-size=\"12\">May</text>"
-            print "<text x=\"260\" y=\"20\" fill=\"white\" font-size=\"12\">June</text>"
-            print "<text x=\"310\" y=\"20\" fill=\"white\" font-size=\"12\">July</text>"
-            print "<text x=\"360\" y=\"20\" fill=\"white\" font-size=\"12\">August</text>"
-            print "<text x=\"410\" y=\"20\" fill=\"white\" font-size=\"12\">September</text>"
-            print "<text x=\"460\" y=\"20\" fill=\"white\" font-size=\"12\">October</text>"
-            print "<text x=\"510\" y=\"20\" fill=\"white\" font-size=\"12\">November</text>"
-            print "<text x=\"560\" y=\"20\" fill=\"white\" font-size=\"12\">December</text>"
-            print "<!-- Days -->"
-            for (i=1; i<=31; i++) {
-              print "<text x=\"" (10 + i*10) "\" y=\"35\" fill=\"white\" font-size=\"8\">" i "</text>"
-            }
-          }1' dist/snake.svg > dist/snake_with_labels.svg
-
-      - name: Push snake_with_labels.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4  # Updated to v4, compatible with Node.js 20
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update README with snake.svg
+      - name: Modify SVG for slower animation speed
         run: |
-          # Update README.md with the SVG
-          echo '![GitHub Contribution Snake](https://raw.githubusercontent.com/MrSubha420/<YOUR_REPO>/output/snake_with_labels.svg)' > README.md
-      - name: Commit README.md
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'Update README with GitHub Contribution Snake'
-          git push
+          sed -i 's/dur="2s"/dur="8s"/g' dist/snake.svg
