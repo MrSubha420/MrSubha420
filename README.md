@@ -154,4 +154,4 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 </h4>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MrSubha420/MrSubha420/output/snake.svg" width = 1500 alt="Snake animation" />
