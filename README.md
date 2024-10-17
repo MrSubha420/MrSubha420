@@ -142,7 +142,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> Codewithashim            @@
+@@    \|=====|/           </> CodewithSubha            @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
