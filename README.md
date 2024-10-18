@@ -1,4 +1,4 @@
-<img align="center" src="./GIF/code.gif" alt="MrSubha420" height="450" width="850"/>
+<img align="center" src="./GIF/code.gif" alt="MrSubha420" height="300" width="850"/>
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Subhadip+Manna+%3C%2F%3E" alt="Typing SVG" /></a>
@@ -47,8 +47,8 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
     <a href="https://codepen.io/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://twitter.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codesandbox.com/MrSubha420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="MrSubha420" height="30" width="40" /></a>
-  <a href="https://fb.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MrSubha420" height="30" width="40" /></a>
-  <a href="https://instagram.com/MrSubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://fb.com/subhadip.manna.18294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MrSubha420" height="30" width="40" /></a>
+  <a href="https://instagram.com/SUBHADIP.MANNA.18294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrSubha420" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/subhadip-manna-34108b332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadip-manna-34108b332" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/subhadip420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420" height="30" width="40" /></a>
 </p>
@@ -125,6 +125,8 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&show_icons=true&locale=en" alt="mrsubha" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&" alt="MrSubha420" /></p>
+
 
 <h4 align="center">
 
@@ -140,7 +142,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> MrSubha420               @@
+@@    \|=====|/           </> CodewithSubha            @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
@@ -152,4 +154,4 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 </h4>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MrSubha420/MrSubha420/output/snake.svg" width = 1500 alt="Snake animation" />
