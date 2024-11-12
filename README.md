@@ -36,7 +36,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 - 🌱 I’m currently learning **IoT** 
 - 👨‍💻 All of my projects are available at [https://github.com/MrSubha420](https://github.com/MrSubha420)
-- 👨‍💻 My Portfolio are available at [https://codewithsubha.netlify.app](https://codewithsubha.netlify.app)
+- 👨‍💻 My Portfolio are available at [[https://codewithsubha.netlify.app]([https://codewithsubhadip.vercel.app](https://codewithsubhadip.vercel.app))](https://codewithsubha.netlify.app)
 - 💬 Ask me about **Full Stack Web Development** **IoT** **DataScience** **Native App Devlopment** **Data Strueture** |
 - 📫 How to reach me **codewithsubha2.0@gmail.com**
 
