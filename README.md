@@ -123,7 +123,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 <b>📊GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="mrsubha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&theme=dark&hide_border=false" alt="mrsubha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&theme=ambient_gradient&hide_border=false" alt="mrsubha" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSubha420&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="MrSubha420" /></p>
 
