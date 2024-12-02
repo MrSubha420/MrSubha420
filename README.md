@@ -125,33 +125,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&theme=dark&hide_border=false" alt="mrsubha" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSubha420&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="MrSubha420" /></p>
-
-
-<h4 align="center">
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/           </> CodewithSubha            @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSubha420&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="MrSubha420" /></p>
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=MrSubha420&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top repo" /> </p>
 
 <img src="https://raw.githubusercontent.com/MrSubha420/MrSubha420/output/snake.svg" width = 1500 alt="Snake animation" />
