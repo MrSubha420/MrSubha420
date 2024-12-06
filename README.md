@@ -3,6 +3,7 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Subhadip+Manna+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 👨‍💻 About Me
 
@@ -31,6 +32,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📫 Reach me out
 
@@ -39,8 +41,9 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 - 👨‍💻 My Portfolio are available at [https://codewithsubhadip.vercel.app](https://codewithsubhadip.vercel.app) 
 - 💬 Ask me about **Full Stack Web Development** **IoT** **DataScience** **Native App Devlopment** **Data Strueture** |
 - 📫 How to reach me **codewithsubha2.0@gmail.com**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<b>🤝 Connect with Me</b>
+### 🤝 Connect with Me
 <p align="left">
   <a href="#" target="blank"><img align="center" src="./WEBP/hr.webp" alt="MrSubha420" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/MrSubha420" target="blank"><img align="center" src="./WEBP/cf.webp" alt="MrSubha420" height="30" width="40" /></a>
@@ -52,6 +55,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
  <a href="https://www.linkedin.com/in/subhadip-manna-504686321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadip-manna-34108b332" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/subhadip420/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420/code" height="30" width="40" /></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 ## 🛠️ Languages and Tools
@@ -120,8 +124,8 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<b>📊GitHub Stats</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="mrsubha" /></p>
+## 📊GitHub Stats
+<p><img align="left" src="https://githubeadme-stats.vercel.app/api?username=MrSubha420&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="mrsubha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&theme=dark&hide_border=false" alt="mrsubha" /></p>
 
