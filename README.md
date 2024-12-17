@@ -54,7 +54,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
   <a href="https://instagram.com/SUBHADIP.MANNA.18294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrSubha420" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/subhadip-manna-504686321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhadip-manna-34108b332" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/subhadip420/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/subhadip420/code" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/https://leetcode.com/u/mrsubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mrsubha420" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/mrsubha420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mrsubha420" height="30" width="40" /></a>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
