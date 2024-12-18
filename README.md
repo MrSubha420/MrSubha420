@@ -125,6 +125,10 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## 📊LeadCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrsubha420?theme=dark&font=Dancing_Script)
+
+
 ## 📊GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrSubha420&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="mrsubha" /></p> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSubha420&theme=dark&hide_border=false" alt="mrsubha" /></p>
