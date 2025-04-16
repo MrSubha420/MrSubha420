@@ -40,7 +40,7 @@ Hi, I'm **Subhadip Manna**, a passionate tech enthusiast with expertise in **Ful
 - 👨‍💻 All of my projects are available at [https://github.com/MrSubha420](https://github.com/MrSubha420)
 - 👨‍💻 My Portfolio are available at [https://codewithsubhadip.vercel.app](https://codewithsubhadip.vercel.app) 
 - 💬 Ask me about **Full Stack Web Development** **IoT** **DataScience** **Native App Devlopment** **Data Strueture** |
-- 📫 How to reach me **codewithsubha2.0@gmail.com**
+- 📫 How to reach me **codewithsubh2.0@gmail.com**
 - 📫 **Click-Here-To-See-My-Resume:** [Download](https://www.linkedin.com/in/subhadip-manna-504686321/details/featured/1735973630652/single-media-viewer/?profileId=ACoAAFFvi1QBjRElOQqVfw9M31MDD5w1o0Oqt_4)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
